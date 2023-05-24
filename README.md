@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njames&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=njames)
 
-[![SAP Community Stats](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/njames)](https://people.sap.com/njames)
+[![SAP Community Stats](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/nigel.james)](https://people.sap.com/nigel.james)
 
 ### Where you can find me?
 
-[![linkedin-shield](https://img.shields.io/badge/LinkedIn-555?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nigeljames)  [![github-shield](https://img.shields.io/badge/GitHub-555?style=for-the-badge&logo=github)](https://github.com/njames) [![sap-shield](https://img.shields.io/badge/SAP-555?style=for-the-badge&logo=sap&logoColor=white)](https://people.sap.com/nigeljames) [![sap-shield](https://img.shields.io/badge/Credly-555?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mauricio-lauffer/badges)
+[![linkedin-shield](https://img.shields.io/badge/LinkedIn-555?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nigeljames)  [![github-shield](https://img.shields.io/badge/GitHub-555?style=for-the-badge&logo=github)](https://github.com/njames) [![sap-shield](https://img.shields.io/badge/SAP-555?style=for-the-badge&logo=sap&logoColor=white)](https://people.sap.com/nigel.james) 
