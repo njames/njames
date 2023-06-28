@@ -1,4 +1,4 @@
-### G'day I'm Nigel 👋
+# G'day I'm Nigel 👋
 
 <!--
 **njames/njames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njames&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=njames)
 
 [![SAP Community Stats](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/nigel.james)](https://people.sap.com/nigel.james)
+
+## Need an idea?
+[Look over here 👉 ](./coding-ideas.md)
 
 ### Where you can find me?
 
