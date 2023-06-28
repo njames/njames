@@ -7,9 +7,9 @@
 
   ## The Ultimate List of Simple Coding Ideas*
 
-[] ToDo List
-[] Make a ToDo list persist
-[] Investigate the [sakila database](https://dev.mysql.com/doc/sakila/en/) and build a front end for it 
+- [ ] ToDo List
+- [ ] Make a ToDo list persist
+- [ ] Investigate the [sakila database](https://dev.mysql.com/doc/sakila/en/) and build a front end for it 
 
  
 
