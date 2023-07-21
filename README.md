@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![SAP Community Stats](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/nigel.james)](https://people.sap.com/nigel.james)
 
 ## Looking for talks I have given or those I am working on ?
-[Look this way 👉 ]([./coding-ideas.md](https://github.com/njames/talks))
+[Look this way 👉 ](https://github.com/njames/talks)
 
 
 ## Starting Programming and need an idea?
