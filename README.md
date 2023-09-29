@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ## Looking for talks I have given or those I am working on ?
 [Look this way 👉 ](https://github.com/njames/talks)
 
+## Want to join the Open Source Projects my Company contributes to ?
+[Over here 👉 ](https://github.com/squarecloudlabs)
 
 ## Starting Programming and need an idea?
 [Look over here 👉 ](./coding-ideas.md)
