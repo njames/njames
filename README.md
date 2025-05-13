@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 ### Where you can find me?
 
-[![linkedin-shield](https://img.shields.io/badge/LinkedIn-555?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nigeljames)  [![github-shield](https://img.shields.io/badge/GitHub-555?style=for-the-badge&logo=github)](https://github.com/njames) [![sap-shield](https://img.shields.io/badge/SAP-555?style=for-the-badge&logo=sap&logoColor=white)](https://people.sap.com/nigel.james) 
+[![linkedin-shield](https://img.shields.io/badge/LinkedIn-555?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nigeljames)  [![github-shield](https://img.shields.io/badge/GitHub-555?style=for-the-badge&logo=github)](https://github.com/njames) 
